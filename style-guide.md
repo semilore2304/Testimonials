@@ -23,7 +23,7 @@ The designs were created to the following widths:
 - Grey 100: hsl(214,17%,92%)
 - Grey 200: hsl(0,0%,81%)
 - Grey 400: hsl(224,10%,45%)
-- Grey 500: hsl(217, 19%, 35%)
+- Grey 500: hsl(217, 66%, 63%)
 - Dark blue: hsl(219,29%,14%)
 - Black: hsl(0,0%,7%)
 
